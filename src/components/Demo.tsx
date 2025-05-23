@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useCallback, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 import sdk, {
   type Context,
 } from "@farcaster/frame-sdk";
